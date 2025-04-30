@@ -2,3 +2,4 @@ I am file 1
 Okay
 Now switched
 Github practiced
+bug branch
